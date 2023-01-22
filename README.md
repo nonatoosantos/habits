@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para gerenciar novos e antigos hábitos por dia.
 
-- [Link do App](https://nonatoosantos.github.io/habits)
+- [Visite o App Habits](https://nonatoosantos.github.io/habits)
 
 ## 🔖 Layout
 
